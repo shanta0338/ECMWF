@@ -1,0 +1,49 @@
+Weather model: DestinE
+Framework: https://github.com/ecmwf/anemoi
+
+Model: https://huggingface.co/ecmwf/aifs-single-1.1
+
+MLflow: https://mlflow.org/
+
+Blog Post: https://destine.ecmwf.int/artificial-intelligence-in-destine-the-explainer/
+
+notebook file: https://github.com/ecmwf-training/2026-ml-esm-training/blob/main/m2/Transformer_z500.ipynb
+
+Transformer explainer: https://poloclub.github.io/transformer-explainer/
+
+How to deal with dataset: https://github.com/ecmwf-training/2026-ml-esm-training/blob/main/m3/using_era5_anemoi.ipynb
+
+Real-time exploration: https://era-explorer.climate.copernicus.eu/?lat=24.54&lng=59.59&plot=0
+
+Zarr python library: https://zarr.readthedocs.io/en/stable/
+
+Climate data: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels?tab=overview
+
+earthkit: https://earthkit.ecmwf.int/
+
+Quality Forecast: https://www.ecmwf.int/en/forecasts/quality-our-forecasts
+
+Publication: https://www.ecmwf.int/en/publications
+
+Model Link: https://huggingface.co/ecmwf/aifs-ens-2.0
+Windy: https://www.windy.com/?23.773,90.366,5
+
+Some important links:
+https://www.gtn-h.info/networks/
+https://gtnp.arcticportal.org/about-the-gtnp
+https://bsrn.awi.de/
+
+Unfamiliar link: https://creativecommons.org/licenses/by-sa/4.0/
+
+ML Flow + Physics-based system + Zero + One + Few shot learning 
+
+pip install ai-models ai-models-panguweather ai-models-fourcastnetv2 ai-models-graphcast
+
+ai-models panguweather
+
+
+Measurement typically refers to the quantification of a specific physical property using an instrument or sensor. Measurements produce raw data that contribute to observations.
+
+Air temperature in degrees Celsius, as measured by a thermometer.
+Rain rates in millimetres per hour, as measured by a rain gauge.
+Cloud heights and thickness in metres, as observed by weather radar.
